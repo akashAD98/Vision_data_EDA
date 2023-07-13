@@ -5,10 +5,9 @@ supports Yolo format data, Gets insights from data
 #installation
 
 ```
-# !pip install pdf2image
-# !apt-get install poppler-utils
-# !pip install Pygments
-# !pip install data-gradients==0.1.4
+pip install data-gradients==0.1.4
+pip install pdf2image
+pip install Pygments
 
 ```
 
