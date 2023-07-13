@@ -51,6 +51,17 @@ Object Detection Features output
 <img width="352" alt="image" src="https://github.com/akashAD98/Vision_data_EDA/assets/62583018/f47a0cde-be2e-45c0-a0b7-68de8b5fa6e7">
 
 
+also check it,its similar but more powerful
+
+## yoloexplorer
+
+1)Analyse your datasets with powerful custom queries
+2)Find and remove bad images (duplicates, out-of-domain data, and more)
+
+```
+https://github.com/lancedb/yoloexplorer
+```
+<img width="547" alt="image" src="https://github.com/akashAD98/Vision_data_EDA/assets/62583018/1c691125-acc1-4557-abfc-decbc99e9cc5">
 
 
 reference
