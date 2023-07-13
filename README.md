@@ -20,16 +20,32 @@ download data
 https://drive.google.com/drive/folders/1dPNgUWj7CjFFdCODlLq-ac_4JeXjDIp7?usp=sharing
 ```
 
+#### data format yolov5,yolov8 
+```
+train- images & labels
+val- images & labels
+data.yaml
+```
+
+
 ```
 !python3 run_EDA.py
 ```
 
 
 # output
-you will get output in logs folder which contains pfd
+you will get output in the logs folder which contains pfd
 
 ```
-
+Object Detection Features output
+1. Distribution of Bounding Box Area
+2. Intersection of Bounding Boxes
+3. Distribution of Bounding Box per image
+4. Distribution of Bounding Box Width and Height
+5. Class Frequency
+6. Bounding Boxes Density
+7. Distribution of Class Frequency per Image
+8. Visualization of Samples
 
 ```
 
@@ -41,4 +57,5 @@ you will get output in logs folder which contains pfd
 reference
 ```
 https://github.com/Deci-AI/data-gradients.git
+https://github.com/ultralytics/ultralytics.git
 ```
