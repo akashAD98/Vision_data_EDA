@@ -14,7 +14,7 @@ supports yolo format data, Get insigts from data
 
 # To run
 ```
-!python3 data_EDA.py
+!python3 run_EDA.py
 ```
 
 
