@@ -1,5 +1,5 @@
 # Vision_data_EDA
-supports Yolo format data, Gets insights from data
+Object detection (bbox) Image data analysis or EDA, Gets insights from data
 
 
 #installation
